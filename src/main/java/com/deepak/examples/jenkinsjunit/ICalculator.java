@@ -1,4 +1,4 @@
-package com.deepak.examples.jenkinsjunit;
+package com.teams.examples.jenkinsjunit;
 
 public interface ICalculator {
 	int sum(int a, int b);
