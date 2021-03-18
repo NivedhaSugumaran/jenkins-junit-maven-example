@@ -1,4 +1,4 @@
-package com.deepak.examples.jenkinsjunit;
+package com.teams.examples.jenkinsjunit;
 
 
 
