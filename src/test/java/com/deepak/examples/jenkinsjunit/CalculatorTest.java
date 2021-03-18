@@ -1,4 +1,4 @@
-package com.deepak.examples.jenkinsjunit;
+package com.test.examples.jenkinsjunit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
